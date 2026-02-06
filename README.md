@@ -18,11 +18,11 @@ A comprehensive Flutter-based mobile application designed for business financial
   
 | Login Screen | Dashboard | Quick View |
 |:---:|:---:|:---:|
-| ![image4](image4) | ![image1](image1) | ![image6](image6) |
+| ![image4](image/Login Screen.png) | ![image1](image/Dashboard.png) | ![image6](image/Quick View.png) |
 
 | Approval Module | Reports | Financial View |
 |:---:|:---:|:---:|
-| ![image7](image7) | ![image5](image5) | ![image3](image3) |
+| ![image7](image/Approval Module.png) | ![image5](image/Reports.png) | ![image3](image/Financial View.png) |
 
 </div>
 
